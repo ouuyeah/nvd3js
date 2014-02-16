@@ -1,0 +1,8 @@
+{
+  "name": "nvd3js",
+  "description": "Nvd3.org charts with Meteor, updated version.",
+  "homepage": "https://github.com/ouuyeah/nvd3js",
+  "author": "Julian Alvarez <j@grandpa.im>",
+  "version": "0.1.0",
+  "git": "https://github.com/ouuyeah/nvd3js.git"
+}
